@@ -1,0 +1,70 @@
+{
+  "cast": [
+    {
+      "name": "Dizzy Dollie",
+      "role": "voice actor",
+      "imdbId": "nm17760876",
+      "charactersAndEpisodes": "sampletext"
+    },
+    {
+      "name": "Syndi Rella",
+      "role": "voice actor",
+      "imdbId": "nm17765752",
+      "charactersAndEpisodes": "sampletext"
+    },
+    {
+      "name": "Bliss Blank",
+      "role": "voice actor, director",
+      "imdbId": "nm17754818",
+      "charactersAndEpisodes": "sampletext"
+    },
+    {
+      "name": "Kitten Azazel",
+      "role": "voice actor",
+      "imdbId": "nm17774343",
+      "charactersAndEpisodes": "sampletext"
+    },
+    {
+      "name": "Jericho Caine",
+      "role": "voice actor",
+      "imdbId": "nm17778008",
+      "charactersAndEpisodes": "sampletext"
+    },
+    {
+      "name": "Flux Lynniegal",
+      "role": "voice actor",
+      "imdbId": "nm17796354",
+      "charactersAndEpisodes": "sampletext"
+    },
+    {
+      "name": "Ring Of Kees",
+      "role": "voice actor",
+      "imdbId": "nm17839622",
+      "charactersAndEpisodes": "sampletext"
+    },
+    {
+      "name": "Princess Ella",
+      "role": "voice actor",
+      "imdbId": "nm17822436",
+      "charactersAndEpisodes": "sampletext"
+    },
+    {
+      "name": "Sofi Starship",
+      "role": "voice actor",
+      "imdbId": "nm17864394",
+      "charactersAndEpisodes": "sampletext"
+    },
+    {
+      "name": "Swirls and Twirls",
+      "role": "voice actor",
+      "imdbId": "nm17864395",
+      "charactersAndEpisodes": "sampletext"
+    },
+    {
+      "name": "Neural Nets And Pretty Patterns",
+      "role": "showrunner, creator, producer",
+      "imdbId": "nm17755189",
+      "charactersAndEpisodes": "all episodes"
+    }
+  ]
+}
