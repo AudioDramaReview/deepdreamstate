@@ -1,0 +1,23 @@
+{
+  "episodeId": "arc1-ep001",
+  "title": "Maiden Voyage",
+  "arc": "Arc 1: The Chthonic",
+  "episodeNumber": "Arc 1, Episode 1",
+  "releaseDate": "sampletext",
+  "logline": "sampletext",
+  "summary": "sampletext",
+  "synopsis": "sampletext",
+  "runtime": "sampletext",
+  "cast": "sampletext",
+  "distributionLinks": {
+    "apple": "sampletext",
+    "spotify": "sampletext",
+    "blubrry": "sampletext",
+    "officialShowPage": "https://deepdreamstate.blubrry.net/deep-dream-state-arc-1-episode-1-maiden-voyage/"
+  },
+  "imdbUrl": "sampletext",
+  "coverArtUrl": "https://raw.githubusercontent.com/AudioDramaReview/deepdreamstate/main/images/episodes/arc1-ep001.jpg",
+  "showrunnerIsni": "0000 0005 2877 6254",
+  "showrunnerPatreon": "sampletext",
+  "distributor": "Blubrry"
+}
